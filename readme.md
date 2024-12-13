@@ -717,3 +717,10 @@ in station-averages topic we got:
 ![final-results](./screens/station-averages.png)
 
 
+# Part-2
+
+you can find the second part of this application, where we try to treat an example of
+click count application:
+
+[click counter with kafka streams](https://github.com/mohammedhajjii/kafka-streams-activity-part-2.git
+)
